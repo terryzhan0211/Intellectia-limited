@@ -1,1 +1,1 @@
-# Intellectia-front-end
+# Intellectia-client
