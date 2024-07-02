@@ -1,1 +1,1 @@
-# Intellectia-client
+# Intellectia-limited
