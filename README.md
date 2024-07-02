@@ -1,0 +1,1 @@
+# Intellectia-front-end
